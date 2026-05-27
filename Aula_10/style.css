@@ -1,0 +1,17 @@
+body {
+    background-color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    background-color: coral;
+    color: white;
+}
+
+h2 {
+    color: red;
+}
+
+p {
+    color: blue;
+}
